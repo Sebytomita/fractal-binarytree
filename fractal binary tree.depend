@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1640733820 source:d:\eu\info\fractal binary tree\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1640771167 d:\eu\info\fractal binary tree\graphics2.h
+
+1641415447 source:d:\eu\info\fractal binary tree\main.cpp
+	"graphics2.h"
+	<cmath>
+	<iostream>
+
